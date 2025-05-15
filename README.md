@@ -41,8 +41,11 @@ Made by. Minhyuk Oh
 ---
 
 ## Comment
-  > This project used atomic design pattern and firebase function.   
+  > This project used atomic design pattern and firebase function.
   > I hope that many traveler will traveling safety and exciting this project.
+
+  > This is using public data from the Ministry of Foreign Affairs of Korea. (A part of)
+  > But, soon will be changing data for foreigner... 
     
  ## 📷 Screenshots (이미지)
  
