@@ -1,0 +1,6 @@
+Copyright (c) 2025 Minhyuk Oh
+
+All rights reserved.
+
+This source code is made publicly viewable for educational purposes only.  
+Any reproduction, distribution, modification, or commercial use is strictly prohibited without explicit permission from the author.
